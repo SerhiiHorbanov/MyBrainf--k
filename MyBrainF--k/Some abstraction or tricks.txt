@@ -1,0 +1,5 @@
+> A pluses [< B pluses >-]< adds A*B to this cell
+
+for example:
+>+++++[<+++++>-]<. outputs character with value 25
+,>,[<+>-]<. outputs sum of 2 inputed values

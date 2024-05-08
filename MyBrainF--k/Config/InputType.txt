@@ -1,0 +1,5 @@
+2
+0 - Pure
+1 - Hexadecimal
+2 - Decimal
+3 - Binary

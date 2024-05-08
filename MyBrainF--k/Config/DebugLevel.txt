@@ -1,0 +1,5 @@
+0
+0 - NoDebug,
+1 - OutInstruction,
+2 - OutDataAndInstruction,
+3 - OutAll
